@@ -1,0 +1,7 @@
+Use this token to access the HTTP API:
+6206131801:AAGOM4hc4n9TwR-PjuXA5o3KVphW3aOVq7I
+Keep your token secure and store it safely, it can be used by anyone to control your bot.
+
+Use this token to access the HTTP API:
+5847203696:AAGbx8giCKvh4k4rc26kBKpHTn3dzG4UQoY
+Keep your token secure and store it safely, it can be used by anyone to control your bot.
